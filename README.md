@@ -191,7 +191,12 @@ The following report details the methodology and tools employed in a project aim
 
 Methodology
 The project began by collecting relevant data from Wikidata, which served as the basis of the research. Several SPARQL queries were created to extract information on rock music and its development, its artists, as well as their influence. The collected data were subjected to an in-depth exploration and analysis phase to identify noteworthy correlations and trends. The analysis helped to understand the evolution of rock music over time.
-To create a compelling story, a narrative structure was developed to organise the collected data into a cohesive structure. The structure aimed to show the development of rock music over the years starting from the 1950s when it was born, continuing with the 10 most influential bands in the USA and highlighting the differences in gender (male and female) of two rock bands. Finally, an exposition of the different sub-genres of rock that developed between the years 1980 and 1985 is shown. Chronological and thematic approaches were used to present the story in an engaging and coherent manner.
+To create a compelling story, a narrative structure was developed to organise the collected data into a cohesive structure. The structure aimed to show the development of rock music over the years starting from the 1950s when it was born, continuing with the 10 most influential bands in the USA and highlighting the differences in gender (male and female) of two rock bands. </p>
+    </div> 
+       <div class="article-image">
+      <img src="vertical-theater.jpg" alt="Article Image">
+    </div>
+      <p> Finally, an exposition of the different sub-genres of rock that developed between the years 1980 and 1985 is shown. Chronological and thematic approaches were used to present the story in an engaging and coherent manner.
 
 Tools 
 SPARQL Query Language SPARQL, a powerful query language for RDF (Resource Description Framework) data, was utilized to interact with the Wikidata. The queries were constructed to extract relevant data and filter the results based on specific criteria, such as time periods, genres, and artists. The flexibility and efficiency of SPARQL facilitated the extraction of large volumes of data from Wikidata. Data visualization played a crucial role in presenting the findings of the project. “MELODY” (MakE me a Linked Open Data storY) was employed to create tables, charts, graphs, and timelines. These visual representations enhanced the understanding of changes in rock music over time.
@@ -200,11 +205,7 @@ Challenges
 The project to create a history of the evolution of rock music using data from Wikidata presented several challenges. One of the main challenges was to ensure the consistency and completeness of the data obtained from Wikidata. Although Wikidata is a valuable resource, some entities may have limited or incomplete information. Some entities may have less data available, making it difficult to provide a complete analysis or narrative for these specific entities. The use of SPARQL queries to extract large volumes of data from Wikidata posed some challenges. Since the project aimed at analysing a large amount of information, it was crucial to optimise query performance and ensure efficient data retrieval.
 
 Conclusion 
-This report has outlined the methodology and tools employed in a project aimed at creating a story about the rock music using data from Wikidata. Through the careful collection, analysis, and organization of relevant information, a comprehensive narrative was constructed. The use of SPARQL queries and the data visualization tool MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution.</p>
-    </div> 
-       <div class="article-image">
-      <img src="vertical-theater.jpg" alt="Article Image">
-    </div>
+This report has outlined the methodology and tools employed in a project aimed at creating a story about the rock music using data from Wikidata. Through the careful collection, analysis, and organization of relevant information, a comprehensive narrative was constructed. The use of SPARQL queries and the data visualization tool MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution. </p>
   </div>
   
 #
