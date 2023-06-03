@@ -173,7 +173,7 @@ footer {
 
 
 <div class="container">
-  <img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-mic.jpg" alt="Snow" style="width:100%;">
+  <img src="home-mic.jpg" alt="Reports" style="width:100%;">
   
   <div class="top-left"><h1 align="left"><span style="font-family:Georgia,serif">Our reports</span></h1></div>
 
