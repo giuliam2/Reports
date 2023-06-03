@@ -149,8 +149,8 @@ footer {
 
 .top-left {
   position: absolute;
-  top: 120px;
-  left: 160px;
+  top: 90px;
+  left: 110px;
 }
 
 /* Style the footer */
