@@ -39,7 +39,7 @@ body {
 
     body {
       font-family: Arial, sans-serif;
-      background-color: #990a00;
+      background-color: #F1F7FB;
       color: #333;
       margin: 0;
       padding: 20px;
@@ -136,7 +136,7 @@ footer {
   <a href="https://bella2402.github.io">Theater</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
   <a href="#Guitars">Guitars</a>
-  <a class="active" href="#Our Report">Our Reports</a>
+  <a class="active" href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
