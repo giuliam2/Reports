@@ -181,10 +181,12 @@ footer {
 <br><br>
   <div class="article">
     <div class="article-text">
+    <div class="article-image">
+      <img src="vertical-theater.jpg" alt="Article Image">
+    </div>
   <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music: a love story</span></h1>
     <p>If you ever feel worried about whether you’ll find a seat for a last-minute concert, we have got you covered. In our nicely illustrated bar chart, you will be able to understand the capacity of UK’s theatres that shows the number of theatres that have a certain amount of seats from the one that can host the greatest audience to the tiniest ones. But to give you some more of the real data, an interesting table showing the inauguration year of the oldest theatres in the UK can be found. We personally advice you to check the iconic Globe Theatre out if you haven’t yet. Did you know that it was there that Shakespeare and his recital company used to act? Well, if you didn’t, do not worry, you can still go see some his most famous plays as they are on scene pretty much every week. Finally, moving towards the end of our recollection of information about theatres in the United Kingdom, you will encounter some names that might not instantly ring a bell to you, but they are actually some of the well-known composers from UK. As classical music is the most played genre in theatres, we thought one could also positively value some information about classical music composers who were born in the UK, and whose music was obviously played in UK theatres. If you’re starting to get more interested in classical music, you can visualize on our chart the main types of classical music with a nice description that explains them all. And of course, we couldn’t leave you without a nicely catalogue of classical compositions featuring influential figures of classical music such as Bach. Now, are you ready to explore?</p>
-    </div>
-    <div class="article-image">
+    </div>    <div class="article-image">
       <img src="vertical-theater.jpg" alt="Article Image">
     </div>
   </div>
@@ -195,57 +197,6 @@ footer {
   
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #ddd;
-}
-
-th, td {
-  text-align: left;
-  padding: 16px;
-}
-</style>
-</head>
-<body>
-
-
-<table>
-  <tr>
-    <th><a href="#">Theaters</a></th>
-    <th><a href="#">Rock Music</a></th>
-    <th><a href="#">Guitars</a></th>
-  </tr>
-  <tr>
-    <td><a href="https://bella2402.github.io">
-    <img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-theater.jpg" alt="Descrizione dell'immagine"width="300" height="142" />
-  </a></td>
-    <td><a href="https://bella2402.github.io">
-    <img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-rock.jpg" alt="Descrizione dell'immagine"width="300" height="142" />
-  </a></td>
-    <td><a href="https://bella2402.github.io">
-    <img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-guitar.jpg" alt="Descrizione dell'immagine"width="300" height="142" />
-  </a></td>
-  </tr>
-  
-  
-</table>
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-</div>
 
 <br><br>
 
