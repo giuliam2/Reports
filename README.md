@@ -38,11 +38,11 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a href="https://giuliam2.github.io/">Home</a>
   <a href="https://bella2402.github.io">Theater</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
   <a href="#Guitars">Guitars</a>
-  <a href="#Our Report">Our Reports</a>
+  <a class="active" href="#Our Report">Our Reports</a>
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
