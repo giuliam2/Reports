@@ -257,9 +257,8 @@ Thanks to Polifonia, MELODY, Wikidata and thus the SPARQL Query Language for RDF
     </div> 
   </div>
   
- 
+<br>
   
-<br><br>
 <footer>
   <p>All rights reseved to the 6girls's project.</p>
 </footer>
