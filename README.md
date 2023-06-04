@@ -12,7 +12,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #;
+
 }
 
 .topnav a {
@@ -130,7 +130,7 @@ body {
 
 
 </head>
-<body>
+
 
 <div class="topnav">
   <a href="https://giuliam2.github.io/6-Girls-on-a-stage-home/">Home</a>
@@ -140,7 +140,7 @@ body {
   <a class="active" href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 .container {
   position: relative;
@@ -198,9 +198,8 @@ For querying over RDF graphs, we used the standard language named <b>SPARQL</b>.
 
 Lastly, we transported our functioning queries on the <b>Melody</b> platform employing all the kind of graphics available to create a data story which shows the information we retrieved from the previous exploring process. Moreover, deep research on the web was conducted in order to add an informative background to our graphics and display the results in context.</p> 
             <h4>The challenges</h4>
-<p>Concerning the overall realization of the project, a significant number of challenges was encountered. On the one hand, the lack of data on Wikidata forced us to change the object of our queries various times. For instance, we couldn’t find concrete examples of classical music. On the other hand, when results were obtained, sometimes they would look rather doubtful, such as the query representing the number of theatres in London. In addition, when Wikidata showed us reliable results, Melody would often not display any graphic; the same thing happened with queries conducted on Dbpedia. Melody also showed challenges concerning the maps, it would show the results obtained on Wikidata, but despite the triple pattern focusing on UK, the map would indicate results in some other countries. We couldn’t understand whether the problem depends on Wikidata’s coordinates or Melody rendering of the query. Additionally, despite following the query model to obtain a chart given during the course and the well-functioning of the query, Melody would not showcase any graphic. <br>
-Finally, another great challenge was given by Melody not registering some of our edits to the story, which made us do them all over again.
-Overall, we addressed the problems encountered by changing the object of the queries when results couldn’t be found, or by recreating the Dbpedia queries on Wikidata.
+<p>Concerning the overall realization of the project, a significant number of challenges was encountered. On the one hand, the lack of data on Wikidata forced us to change the object of our queries various times. For instance, we couldn’t find concrete examples of classical music. On the other hand, when results were obtained, sometimes they would look rather doubtful such as when we tried to add a count query about the number of theatres in London, but the result was always 7, which does not correspond to the reality. In contrast, when Wikidata showed us reliable results, Melody would often not display any graphic; the same thing happened with queries conducted on Dbpedia. Moreover, despite following the query model to obtain a chart given during the course and the well-functioning of the query, Melody would not showcase any graphic. Another great challenge was given by Melody not registering some of our edits to the story, which made us do them all over again.
+Finally, we addressed the problems encountered by changing the object of the queries when results couldn’t be found, or by recreating the Dbpedia queries on Wikidata. Overall, facing these challenges was rather useful, as we could employ the competences acquired through practice to try overcoming them as well as learning from our mistakes.
 </p>
     </div> 
       
