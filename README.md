@@ -210,7 +210,7 @@ Overall, we addressed the problems encountered by changing the object of the que
 
       <div class="article">
       <div class="image-article">
-      <img src="vertical-1-rock.jpg" alt="Article Image" width="500" height="800"><br><br><br><br>
+      <img src="vertical-1-rock.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-rock.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Exploring the Rock Music genre</span></h1>
@@ -259,17 +259,9 @@ Thanks to Polifonia, MELODY, Wikidata and thus the SPARQL Query Language for RDF
     </div> 
       
   </div>
-  
-
-
-
 <br><br>
-
 <footer>
   <p>All rights reseved to the 6girls's project.</p>
 </footer>
-
-
-
 </body>
 </html>
