@@ -193,7 +193,7 @@ footer {
       <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
-  <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
+  <h1><span style="font-family:Georgia,serif; color:black">Report: Theatres in the UK and classical music</span></h1>
     <p>The Polifonia corpus was a crucial tool to start off our research. It was used to get a better understanding of the themes we would explore in our story. By selecting the MusicBo “module”, we had the possibility to appreciate in real contexts the use of the words such as “composer” and “theatre” that were later used to formulate our queries. It was particularly useful to know what the word “classical” collocates with, significant information for our data search. Nouns such as “composer”, “composition” and “music” were, in fact, a starter for our Wikidata research. When Wikidata matchings corresponded to 0, we would look synonyms up on Polifonia through the “Type concept” tool. For instance, when we were looking for classical songs made by players it was useful to know that the synonym of player is “musician” because this term allowed us to retrieve data. <br><br>
 
 After a profound analysis of the queries, we were given in class, we could move onto the next step. We explored FRED’s graphs to understand how to structure our query and how to name our “entities”. By exploiting Wikidata, we were able to discover the “wd/wdt code” corresponding to the resources and properties that we were going to analyze. After several attempts at doing queries on Wikidata Query Service about specific arguments of our interest, some results were obtained. <br><br>
@@ -220,7 +220,7 @@ Overall, we addressed the problems encountered by changing the object of the que
       <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
-  <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
+  <h1><span style="font-family:Georgia,serif; color:black">Report: Exploring the Rock Music genre</span></h1>
     <p>This report presents the methodology and tools employed in our project, whose aim was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was Wikidata, which provided a wealth of information on artists, genres, and related entities within the rock music domain.
 
       <h5>1ST STEP</h5>
@@ -250,7 +250,7 @@ Embarking on this project has been an enriching journey, albeit one filled with 
       <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
-  <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
+  <h1><span style="font-family:Georgia,serif; color:black">Report: The history of the guitar</span></h1>
     <p>This report presents the methodology and tools employed in our project, whose aim was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was Wikidata, which provided a wealth of information on artists, genres, and related entities within the rock music domain.
 
       <h5>1ST STEP</h5>
