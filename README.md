@@ -190,26 +190,22 @@ footer {
   
    <div class="article">
       <div class="image-article">
-      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br>
+      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
-    <p>This report presents the methodology and tools employed in our project, whose aim was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was Wikidata, which provided a wealth of information on artists, genres, and related entities within the rock music domain.
+    <p>The Polifonia corpus was a crucial tool to start off our research. It was used to get a better understanding of the themes we would explore in our story. By selecting the MusicBo “module”, we had the possibility to appreciate in real contexts the use of the words such as “composer” and “theatre” that were later used to formulate our queries. It was particularly useful to know what the word “classical” collocates with, significant information for our data search. Nouns such as “composer”, “composition” and “music” were, in fact, a starter for our Wikidata research. When Wikidata matchings corresponded to 0, we would look synonyms up on Polifonia through the “Type concept” tool. For instance, when we were looking for classical songs made by players it was useful to know that the synonym of player is “musician” because this term allowed us to retrieve data. <br><br>
 
-      <h5>1ST STEP</h5>
-Our initial step involved an exploration of the MusicBo corpus using the Polifonia interrogation tool. We conducted searches for pertinent terms in the music domain, ultimately focusing on the lemmas 'music', 'instruments', 'women', 'rock', and 'influence'. We observed a frequent occurrence of the term 'influence' within the corpus (559 instances), something that prompted us to investigate how one genre could influence and be influenced by others, as well as its broader impact on society. Consequently, our investigation centered on the genre of rock music.
+After a profound analysis of the queries, we were given in class, we could move onto the next step. We explored FRED’s graphs to understand how to structure our query and how to name our “entities”. By exploiting Wikidata, we were able to discover the “wd/wdt code” corresponding to the resources and properties that we were going to analyze. After several attempts at doing queries on Wikidata Query Service about specific arguments of our interest, some results were obtained. <br><br>
 
-<h5>2nd STEP</h5>
-We started collecting relevant data from Wikidata, which served as the basis of the research. We formulated several SPARQL queries to extract information on rock music and its development, its artists, as well as their influence. The collected data were subjected to an in-depth exploration and analysis phase to identify noteworthy correlations and trends. 
-To create a compelling story, a narrative structure was developed to organise the collected data into a cohesive structure. The structure aimed to show the development of rock music over the years starting from the 1950s when it was born, continuing with the 10 most influential bands in the USA and highlighting the differences in gender (male and female) of two rock bands. Finally, an exposition of the different sub-genres of rock that developed between the years 1980 and 1985 is shown. Chronological and thematic approaches were used to present the story in an engaging and coherent manner.
-<h5>Tools</h5>
-The main tools employed were the “MusicBo Corpus” and the “SPARQL” query Language, which was utilized to interact with the Wikidata. Data visualization also played a crucial role not only in presenting the findings of the project, but also to foster for us a deeper understanding of the data. The employment of the data visualization tool "MELODY" thus helped us in the creation of tables, charts, graphs, and timelines.
+For querying over RDF graphs, we used the standard language named SPARQL. We created the triple patterns required by SPARQL that includes a subject, a predicate, and an object. The SPARQL query is made up of two parts: in the SELECT section we included the number and order of data we wanted to retrieve, in the WHERE section we put the constraints. Furthermore, we employed more terminology to focus on the results we wanted to obtain such as LIMIT, OFFSET and ORDER BY DESC. <br><br>
 
-<h5>Challenges</h5>
-Ensuring data consistency and completeness proved to be a significant challenge while working with Wikidata. Although Wikidata is a valuable resource, some entities may have in fact limited or incomplete information. Some entities may have less data available, making it difficult to provide a complete analysis or narrative for these specific entities. 
+Lastly, we transported our functioning queries on the Melody platform employing all the kind of graphics available to create a data story which shows the information we retrieved from the previous exploring process. Moreover, deep research on the web was conducted in order to add an informative background to our graphics and display the results in context. <br><br>
 
-<h5>Conclusion</h5>
-Embarking on this project has been an enriching journey, albeit one filled with its fair share of challenges. Familiarizing ourselves with SPARQL queries and Melody required some time, but we are satisfied with the outcome of our data story. Undoubtedly, the use of the data visualization tool MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution.
+Concerning the overall realization of the project, a significant number of challenges was encountered. On the one hand, the lack of data on Wikidata forced us to change the object of our queries various times. For instance, we couldn’t find concrete examples of classical music. On the other hand, when results were obtained, sometimes they would look rather doubtful, such as the query representing the number of theatres in London. In addition, when Wikidata showed us reliable results, Melody would often not display any graphic; the same thing happened with queries conducted on Dbpedia. Melody also showed challenges concerning the maps, it would show the results obtained on Wikidata, but despite the triple pattern focusing on UK, the map would indicate results in some other countries. We couldn’t understand whether the problem depends on Wikidata’s coordinates or Melody rendering of the query. Additionally, despite following the query model to obtain a chart given during the course and the well-functioning of the query, Melody would not showcase any graphic. <br>
+Finally, another great challenge was given by Melody not registering some of our edits to the story, which made us do them all over again.
+Overall, we addressed the problems encountered by changing the object of the queries when results couldn’t be found, or by recreating the Dbpedia queries on Wikidata.
+
  
 </p>
     </div> 
@@ -221,7 +217,7 @@ Embarking on this project has been an enriching journey, albeit one filled with 
 
       <div class="article">
       <div class="image-article">
-      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br>
+      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
@@ -251,7 +247,7 @@ Embarking on this project has been an enriching journey, albeit one filled with 
 <br><br>
      <div class="article">
       <div class="image-article">
-      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br>
+      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
