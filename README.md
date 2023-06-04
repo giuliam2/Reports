@@ -90,6 +90,7 @@ body {
       flex: 1;
       margin-left: 0px;
       margin-right: 40px;
+    margin-bottom: 10px;
     }
     .section {
       margin-top: 0px;
