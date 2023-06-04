@@ -217,8 +217,8 @@ Overall, we addressed the problems encountered by changing the object of the que
 
       <div class="article">
       <div class="image-article">
-      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
-      <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
+      <img src="vertical-1-rock.jpg" alt="Article Image" width="500" height="800"><br><br><br>
+      <img src="vertical-rock.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Report: Exploring the Rock Music genre</span></h1>
     <p>This report presents the methodology and tools employed in our project, whose aim was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was Wikidata, which provided a wealth of information on artists, genres, and related entities within the rock music domain.
@@ -247,8 +247,8 @@ Embarking on this project has been an enriching journey, albeit one filled with 
 <br><br>
      <div class="article">
       <div class="image-article">
-      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800"><br><br><br>
-      <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
+      <img src="vertical-1-guitar.jpg" alt="Article Image" width="500" height="800"><br><br><br>
+      <img src="vertical-guitar.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Report: The history of the guitar</span></h1>
     <p>This report presents the methodology and tools employed in our project, whose aim was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was Wikidata, which provided a wealth of information on artists, genres, and related entities within the rock music domain.
