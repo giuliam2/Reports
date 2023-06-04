@@ -226,7 +226,7 @@ Whenever we created a new query, we would try to run it on the data visualizatio
 Familiarizing ourselves with SPARQL queries and Melody required some time, but we are satisfied with the outcome of our data story. Undoubtedly, the use of MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution.
       </p>
     </div> 
-    <div class="image-article">
+    <div class="article-image">
       <img src="vertical-1-rock.jpg" alt="Article Image" width="500" height="800"><br><br><br>
       <img src="vertical-rock.jpg" alt="Article Image" width="500" height="800">    </div>  
   </div>
