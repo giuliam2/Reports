@@ -210,9 +210,6 @@ Overall, we addressed the problems encountered by changing the object of the que
 
 
       <div class="article">
-      <div class="image-article">
-      <img src="vertical-1-rock.jpg" alt="Article Image" width="500" height="800"><br><br><br>
-      <img src="vertical-rock.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Exploring the Rock Music genre</span></h1>
 <h4>Methodology, tools and data sources</h4>
@@ -228,15 +225,18 @@ Whenever we created a new query, we would try to run it on the data visualizatio
 <p>Embarking on this project has been an enriching journey, albeit one filled with its fair share of challenges. Ensuring <b>data consistency</b> and completeness proved to be a significant problem while working with Wikidata. Some entities may have in fact limited or incomplete information, making it difficult to provide a complete analysis or narrative for these specific entities: the topics explored in our project represent just a selection of the many interesting ones that we had come up with; we had to give up the exploration of certain topics due to the lack of data. As far as MELODY is concerned, we often found ourselves with the data we needed, but had some trouble organising it according to MELODY's specific<b> syntactic structures</b>.<br>
 Familiarizing ourselves with SPARQL queries and Melody required some time, but we are satisfied with the outcome of our data story. Undoubtedly, the use of MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution.
       </p>
-
-
     </div> 
-      
+    <div class="image-article">
+      <img src="vertical-1-rock.jpg" alt="Article Image" width="500" height="800"><br><br><br>
+      <img src="vertical-rock.jpg" alt="Article Image" width="500" height="800">    </div>  
   </div>
   
   
 <br><br><br>
      <div class="article">
+      <div class="image-article">
+      <img src="vertical-1-guitar.jpg" alt="Article Image" width="500" height="800"><br><br><br><br>
+      <img src="vertical-guitar.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">The history of the guitar</span></h1>
    <h4>Methodology, tools and data sources</h4>
@@ -255,9 +255,6 @@ Thanks to Polifonia, MELODY, Wikidata and thus the SPARQL Query Language for RDF
 
       </p>
     </div> 
-<div class="article-image">
-      <img src="vertical-1-guitar.jpg" alt="Article Image" width="500" height="800"><br><br><br><br>
-      <img src="vertical-guitar.jpg" alt="Article Image" width="500" height="800">    </div>      
   </div>
   
  
