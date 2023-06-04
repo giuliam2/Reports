@@ -124,12 +124,6 @@ body {
     }
 
 
-footer {
-  background-color: #FF80AB;
-  padding: 10px;
-  text-align: left;
-  color: white;
-}
 
   </style>
 
@@ -159,7 +153,7 @@ footer {
   left: 90px;
 }
 
-/* Style the footer */
+
 footer {
   background-color: #990a00;
   padding: 10px;
