@@ -189,8 +189,8 @@ footer {
   
    <div class="article">
       <div class="image-article">
-      <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">
-    </div>
+      <img src="vertical-2-theater.jpg" alt="Article Image" width="500" height="800">
+      <img src="vertical-theater.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
     <p>INTRO<br>
@@ -216,7 +216,7 @@ Embarking on this project has been an enriching journey, albeit one filled with 
       
   </div>
 
-#
+<br><br>
 
 
    <div class="article">
