@@ -83,7 +83,8 @@ body {
 
     .article-image {
       flex: 1;
-      margin-left: 20px;
+      margin-left: 40px;
+      margin-right: 0px;
     }
     
  .image-article {
@@ -259,6 +260,34 @@ Thanks to Polifonia, MELODY, Wikidata and thus the SPARQL Query Language for RDF
     </div> 
       
   </div>
+  
+  
+  #
+   <div class="article">
+
+    <div class="article-text">
+  <h1><span style="font-family:Georgia,serif; color:black">The history of the guitar</span></h1>
+   <h4>Methodology, tools and data sources</h4>
+    <p>The purpose of this report is to highlight the methodology used to deeply explore the history of a very complex musical instrument, that influenced not only cultures around the world, but also the sales market.<br>
+In a linear and progressively broader storytelling, we decided first to analyse the genre to which our object of interest belonged, namely stringed instruments. Then we analysed the different number of guitars in the world, outlined the components of this instrument, classified the types of guitars according to the wood employed, analysed sales according to types of guitars over a specific period of time, and finally determined the influence guitarists had on their audience but above all on the whole world. 
+As a first step we approached the Polifonia interrogation tool, searching in the MusicBo corpus lemmas that could have given us interesting information. As a first step we moved from the general world of stringed instrument, encompassing lemmas such as <i>'music'</i>, <i>'instruments'</i>, ' and also <i>'strings'</i>. We noticed that this last lemma showed a frequent occurrence that counted 221 instances, which is a great number if one considers that it encompassed a very specific topic. From this discovery we moved towards the idea that we had to be even more specific on this topic, considering that there are 449 different types of stringed instrument in the world. We decided to choose the guitar as the centre of our research in order to give our users a more in-depth exploration of this particular stringed instrument.
+We mainly used Wikidata as our knowledge base in order to gather data. It was employed to create a story that could have some sort of continuity and that could interrelate elements that at first seemed distant from each other. This information was retrieved through the creation of SPARQL queries capable of answering specific questions (countries associated with guitarists, sales associated with years, etc.). Once data was found, the goal was to display the results of the queries in a visually consistent way for our readers. This is where MELODY was deemed necessary. The queries, in fact, were created with a structure suited to visualisation on MELODY. In this way, the readers of our story could visually understand and be guided throughout our storytelling, with the support of chart, tables and maps.
+      </p>
+      <h4>The challenges</h4>
+<p>The collection of data proved to be a very challenging task. The fact that we had a precise story in our mind created some constraints that most of the time were difficult to overcome. The material found in this field often proved insufficient for the creation of a comprehensive story on such a specific aspect as the history of the guitar. However, this project served also to <b>broaden our horizons</b>, since we continuously changed the structure of our queries, to provide as much consistent data as possible. This allowed us to always retrieve different and interesting information. We did not give up and thanks to the tools and the knowledge provided we managed to create a <b>comprehensive</b> and <b>consistent</b> story. The fact that we had MELODY as a tool at our disposal, made it possible to transform our data into narrative visualization content and this allowed us to put into play our <b>creativity</b> creating maps, charts or tables that could have been pleasing to see for our users. We also tried to <b>empathise</b> with our users, so as to make available material that was useful to them. This once again stimulated our creativity. The story was structured in a linear way and embedded in a narrative frame, starting from the details of the materials of the guitar to finally show the influence it had all over the world.
+Thanks to Polifonia, MELODY, Wikidata and thus the SPARQL Query Language for RDF, we were able to create a story that could show how the guitar played an important role in the history of music.
+
+
+      </p>
+    </div> 
+        <div class="image-article">
+      <img src="vertical-1-guitar.jpg" alt="Article Image" width="500" height="800"><br><br><br><br>
+      <img src="vertical-guitar.jpg" alt="Article Image" width="500" height="800">    </div>    
+  </div>
+
+  
+  #
+  
 <br><br>
 <footer>
   <p>All rights reseved to the 6girls's project.</p>
