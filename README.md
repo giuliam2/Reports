@@ -221,7 +221,7 @@ Overall, we addressed the problems encountered by changing the object of the que
       <img src="vertical-rock.jpg" alt="Article Image" width="500" height="800">    </div>
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Report: Exploring the Rock Music genre</span></h1>
-<h5>Methodology, tools and data sources</h5>
+<h4>Methodology, tools and data sources</h4>
     <p>The aim of our project was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was <b>Wikidata</b>, which provided a wealth of information on artists, genres, and related entities within the rock music domain. <br>
 
 Our initial step involved an exploration of the <b>MusicBo</b> corpus using the <b>Polifonia</b> interrogation tool. We conducted searches for pertinent terms in the music domain, ultimately focusing on the lemma <i>'music', 'instruments', 'women', 'rock', </i> and <i>'influence'</i>. We observed a frequent occurrence of the term <i>'influence'</i> within the corpus (559 instances), something that prompted us to investigate how one genre could influence and be influenced by others, as well as its broader impact on society. Consequently, our investigation centered on the genre of rock music. <br>
@@ -230,7 +230,7 @@ We started collecting relevant data from Wikidata, which served as the basis of 
 Whenever we created a new query, we would try to run it on the data visualization tool <b>MELODY</b> to get a graphical representation of our results. Data visualization played a crucial role not only in presenting the findings of the project, but it also helped us gaining a deeper understanding of the data. The employment of MELODY thus helped us in the creation of tables, charts, graphs, and timelines that aimed to show the development of rock music over the years starting from the 1950s when it was born, continuing with the 10 most influential bands in the USA and highlighting the differences in gender (male and female) of two rock bands. Finally, an exposition of the different sub-genres of rock that developed between the years 1980 and 1985 is shown. 
       </p>
 
-      <h5>The challenges</h5>
+      <h4>The challenges</h4>
 <p>Embarking on this project has been an enriching journey, albeit one filled with its fair share of challenges. Ensuring <b>data consistency</b> and completeness proved to be a significant problem while working with Wikidata. Some entities may have in fact limited or incomplete information, making it difficult to provide a complete analysis or narrative for these specific entities: the topics explored in our project represent just a selection of the many interesting ones that we had come up with; we had to give up the exploration of certain topics due to the lack of data. As far as MELODY is concerned, we often found ourselves with the data we needed, but had some trouble organising it according to MELODY's specific<b> syntactic structures</b>.<br>
 Familiarizing ourselves with SPARQL queries and Melody required some time, but we are satisfied with the outcome of our data story. Undoubtedly, the use of MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution.
       </p>
