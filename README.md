@@ -88,7 +88,8 @@ body {
     
  .image-article {
       flex: 1;
-      margin-left: 20px;
+      margin-left: 0px;
+      margin-right: 40px;
     }
     .section {
       margin-top: 0px;
