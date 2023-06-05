@@ -190,7 +190,7 @@ footer {
     <div class="article-text">
   <h1><span style="font-family:Georgia,serif; color:black">Theatres in the UK and classical music</span></h1>
       <h4>Methodology, tools and data sources</h4>
-    <p>The <b>Polifonia</b> corpus was a crucial tool to start off our research. It was used to get a better understanding of the themes we would explore in our story. By selecting the <b>MusicBo</b> “module”, we had the possibility to appreciate in real contexts the use of the words such as <i>“composer”</i> and <i>“theatre”</i> that were later used to formulate our queries. It was particularly useful to know what the word <i>“classical”</i> collocates with, significant information for our data search. Nouns such as <i>“composer”</i>, <i>“composition”</i> and <i>“music”</i> were, in fact, a starter for our Wikidata research. When Wikidata matchings corresponded to 0, we would look synonyms up on Polifonia through the “Type concept” tool. For instance, when we were looking for classical songs made by players it was useful to know that the synonym of player is <i>“musician”</i>/ because this term allowed us to retrieve data. <br>
+    <p>The <b>Polifonia</b> corpus was a crucial tool to start off our research. It was used to get a better understanding of the themes we would explore in our story. By selecting the <b>MusicBo</b> “module”, we had the possibility to appreciate in real contexts the use of the words such as <i>“composer”</i> and <i>“theatre”</i> that were later used to formulate our queries. It was particularly useful to know what the word <i>“classical”</i> collocates with, significant information for our data search. Nouns such as <i>“composer”</i>, <i>“composition”</i> and <i>“music”</i> were, in fact, a starter for our Wikidata research. When Wikidata matchings corresponded to 0, we would look synonyms up on Polifonia through the “Type concept” tool. For instance, when we were looking for classical songs made by players it was useful to know that the synonym of player is <i>“musician”</i> because this term allowed us to retrieve data. <br>
 
 After a profound analysis of the queries, we were given in class, we could move onto the next step. We explored FRED’s graphs to understand how to structure our query and how to name our “entities”. By exploiting <b>Wikidata</b>, we were able to discover the “wd/wdt code” corresponding to the resources and properties that we were going to analyze. After several attempts at doing queries on Wikidata Query Service about specific arguments of our interest, some results were obtained. <br>
 
@@ -210,7 +210,7 @@ Finally, we addressed the problems encountered by changing the object of the que
 
       <div class="article">
     <div class="article-text">
-  <h1><span style="font-family:Georgia,serif; color:black">Exploring the Rock Music genre</span></h1>
+  <h1><span style="font-family:Georgia,serif; color:black">Exploring Rock Music</span></h1>
 <h4>Methodology, tools and data sources</h4>
     <p>The aim of our project was to create a comprehensive analysis of the evolution of rock music beyond gender boundaries, encompassing various time periods and regions. The primary data source for this data-driven project was <b>Wikidata</b>, which provided a wealth of information on artists, genres, and related entities within the rock music domain. <br>
 
